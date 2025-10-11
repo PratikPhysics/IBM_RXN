@@ -6,6 +6,8 @@
 
 This Streamlit app uses **IBM RXN for Chemistry API** to automatically extract synthesis protocol steps from a given chemical reaction procedure text.
 
+Link:  https://ibmrxn-pratik-nilesh.streamlit.app/
+
 ## 🚀 Overview
 
 Chemists and researchers often work with detailed experimental procedures written in natural language. This tool leverages **IBM RXN’s AI models** to convert such text into structured **reaction protocol steps**.
